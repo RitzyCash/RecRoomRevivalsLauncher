@@ -2,7 +2,7 @@
 
 Hey everyone! I built this launcher because I wanted an easy-to-use tool that can support multiple Rec Room revivals/builds, rather than having to launch independent `.bat` files or rely on different launchers for different revivals. 
 
-Honestly, I just wanted a clean, central place to manage all my builds and jump straight into the game with the right settings, every time.
+Honestly, I just wanted a clean, central place to manage all my builds and jump straight into the game quickly.
 
 ## What it does
 - **Multiple Profiles:** Add as many custom revival builds as you want, name them whatever you like, and switch between them instantly.
