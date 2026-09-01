@@ -10,6 +10,9 @@ Honestly, I just wanted a clean, central place to manage all my builds and jump 
 - **Modern & Clean UI:** Built with CustomTkinter for a sleek dark-mode interface, complete with smooth fade-in animations and custom icons.
 - **Simple Setup:** If it's your first time, the app guides you step-by-step to add your first revival so you aren't left staring at a blank screen.
 
+<img width="251" height="226" alt="image" src="https://github.com/user-attachments/assets/55662ab3-a0cd-4df3-941f-8bb4f5a344db" />
+
+
 ## How to get it running 
 *(You can ignore these steps if using the executable!)*
 
