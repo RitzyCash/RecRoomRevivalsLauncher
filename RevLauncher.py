@@ -46,9 +46,9 @@ class GameLauncher(ctk.CTk):
         """Downloads icons locally if they don't exist."""
         os.makedirs("icons", exist_ok=True)
         icons_to_fetch = {
-            "vr": ("https://raw.githubusercontent.com/RitzyCash/RecRoomRevivalsLauncher/refs/heads/first/images/VR.png", "icons/vr.png"),
-            "screen": ("https://raw.githubusercontent.com/RitzyCash/RecRoomRevivalsLauncher/refs/heads/first/images/ScreenMode.png", "icons/screen.png"),
-            "logo": ("https://raw.githubusercontent.com/RitzyCash/RecRoomRevivalsLauncher/refs/heads/first/images/MainLogo.png", "icons/MainLogo.png")
+            "vr": ("https://raw.githubusercontent.com/RitzyCash/RecRoomRevivalsLauncher/refs/heads/main/images/VR.png", "icons/vr.png"),
+            "screen": ("https://raw.githubusercontent.com/RitzyCash/RecRoomRevivalsLauncher/refs/heads/main/images/ScreenMode.png", "icons/screen.png"),
+            "logo": ("https://raw.githubusercontent.com/RitzyCash/RecRoomRevivalsLauncher/refs/heads/main/images/MainLogo.png", "icons/MainLogo.png")
         }
         for key, (url, path) in icons_to_fetch.items():
             if not os.path.exists(path):
